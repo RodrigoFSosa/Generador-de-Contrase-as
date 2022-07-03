@@ -1,2 +1,2 @@
-# Generador-de-Contrase-as
+# Password Generator
 Programa para generar contraseñas aleatorias
